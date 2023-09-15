@@ -1,6 +1,6 @@
 # Roam Research Custom Theme
 
-This is a customization of the default Roam Research Theme to my preferences. 
+This is a customization of the default Roam Research Theme. 
 
 What's different?
 - Remove bullet points before h1 or h2 markdown tags
