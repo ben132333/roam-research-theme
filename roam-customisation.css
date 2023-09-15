@@ -1,0 +1,19 @@
+.rm-bullet__inner {
+    background-color: rgba(211,211,211,0.7);
+}
+
+.rm-heading-level-1 .rm-bullet__inner {
+    background-color: rgb(255,255,255);
+}
+
+.rm-heading-level-1 {
+    padding-top: 20px;
+}
+
+.rm-heading-level-2 .rm-bullet__inner {
+    background-color: rgb(255,255,255);
+}
+
+.rm-heading-level-2 {
+    padding-top: 15px;
+}
